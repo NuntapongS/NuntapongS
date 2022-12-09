@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nuntapong (Pat) Siripanyawong</h1>
 <h3 align="center">I believe that making software has to be fun. 🇹🇭</h3>
 
-<div align="center"><img alt="GIF" src="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk" /></div>
-
+<div  align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true%22/%3E</div>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuntapongs&label=Profile%20views&color=0e75b6&style=flat" alt="nuntapongs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuntapongs" alt="nuntapongs" /></a> </p>
