@@ -24,14 +24,14 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Backend-focused engineer
-- 🧠 Enjoy system design & clean architecture
-- 🛠 Love working with Go, Node.js, and databases
-- 🌱 Always learning, always building
+- 💼 Backend-focused Software Engineer  
+- 🧠 Interested in system design & clean architecture  
+- 🛠 Enjoy Go, Node.js, databases, and DevOps stuff  
+- 🌱 Always learning, always building  
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,java,react,postgres,mysql,mongodb,docker,git,jenkins,jest,cypress" />
@@ -42,19 +42,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NuntapongS&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuntapongS&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuntapongS&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NuntapongS&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuntapongS&theme=github_dark" />
 </p>
 
 ---
 
-### 📫 Contact
-
-- 📘 Facebook: **bloodzlu5t**
-- 📸 Instagram: **@nuntapong.sr**
 
 > “Code is not just about solving problems —  
 > it’s about enjoying the process.”
