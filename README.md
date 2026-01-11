@@ -39,19 +39,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NuntapongS&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NuntapongS&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuntapongS&theme=github_dark" />
-</p>
-
----
-
-
 > “Code is not just about solving problems —  
 > it’s about enjoying the process.”
